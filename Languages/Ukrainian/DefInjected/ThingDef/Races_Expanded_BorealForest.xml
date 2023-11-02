@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Otter -->
+
+  <AEXP_Otter.label>otter</AEXP_Otter.label>
+  <AEXP_Otter.description>Long, slim, semi-aquatic mammal dieting mostly on fish and small plants. They are extremaly good swimmers and can hold breath under water for a prolonged amount of time.</AEXP_Otter.description>
+  <AEXP_Otter_Leather.label>otter leather</AEXP_Otter_Leather.label>
+  <AEXP_Otter_Leather.description>otter leather</AEXP_Otter_Leather.description>
+  <AEXP_Otter_Leather.stuffProps.stuffAdjective>otter leather</AEXP_Otter_Leather.stuffProps.stuffAdjective>
+  <AEXP_Otter_Meat.label>otter meat</AEXP_Otter_Meat.label>
+  <AEXP_Otter_Meat.description>otter meat</AEXP_Otter_Meat.description>
+  <AEXP_Otter_Corpse.label>otter corpse</AEXP_Otter_Corpse.label>
+  <AEXP_Otter_Corpse.description>otter corpse</AEXP_Otter_Corpse.description>
+
+
+  <!-- Arctic Coyote -->
+
+  <AEXP_ArcticCoyote.label>arctic coyote</AEXP_ArcticCoyote.label>
+  <AEXP_ArcticCoyote.description>A small canine native to tundra and boreal forests. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf.</AEXP_ArcticCoyote.description>
+  <AEXP_ArcticCoyote_Leather.label>arctic coyote leather</AEXP_ArcticCoyote_Leather.label>
+  <AEXP_ArcticCoyote_Leather.description>arctic coyote leather</AEXP_ArcticCoyote_Leather.description>
+  <AEXP_ArcticCoyote_Leather.stuffProps.stuffAdjective>arctic coyote leather</AEXP_ArcticCoyote_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Wolf_Timber -->
+  <AEXP_ArcticCoyote_Corpse.label>arctic coyote corpse</AEXP_ArcticCoyote_Corpse.label>
+  <AEXP_ArcticCoyote_Corpse.description>arctic coyote corpse</AEXP_ArcticCoyote_Corpse.description>
+
+
+  <!-- Black Bear -->
+
+  <AEXP_BlackBear.label>black bear</AEXP_BlackBear.label>
+  <AEXP_BlackBear.description>A medium sized omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the black bear is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures.</AEXP_BlackBear.description>
+  <AEXP_BlackBear_Leather.label>black bear leather</AEXP_BlackBear_Leather.label>
+  <AEXP_BlackBear_Leather.description>black bear leather</AEXP_BlackBear_Leather.description>
+  <AEXP_BlackBear_Leather.stuffProps.stuffAdjective>black bear leather</AEXP_BlackBear_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Bear_Grizzly -->
+  <AEXP_BlackBear_Corpse.label>black bear corpse</AEXP_BlackBear_Corpse.label>
+  <AEXP_BlackBear_Corpse.description>black bear corpse</AEXP_BlackBear_Corpse.description>
+
+
+</LanguageData>

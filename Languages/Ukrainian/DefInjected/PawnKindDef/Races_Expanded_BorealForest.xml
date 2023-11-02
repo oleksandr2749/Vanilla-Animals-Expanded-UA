@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Otter -->
+
+  <AEXP_Otter.label>otter</AEXP_Otter.label>
+  <AEXP_Otter.labelPlural>otters</AEXP_Otter.labelPlural>
+  <AEXP_Otter.lifeStages.0.label>otter</AEXP_Otter.lifeStages.0.label>
+  <AEXP_Otter.lifeStages.0.labelPlural>otter</AEXP_Otter.lifeStages.0.labelPlural>
+  <AEXP_Otter.lifeStages.1.label>otter</AEXP_Otter.lifeStages.1.label>
+  <AEXP_Otter.lifeStages.1.labelPlural>otter</AEXP_Otter.lifeStages.1.labelPlural>
+  <AEXP_Otter.lifeStages.2.label>otter</AEXP_Otter.lifeStages.2.label>
+  <AEXP_Otter.lifeStages.2.labelPlural>otter</AEXP_Otter.lifeStages.2.labelPlural>
+
+  <!-- Arctic Coyote -->
+
+  <AEXP_ArcticCoyote.label>arctic coyote</AEXP_ArcticCoyote.label>
+  <AEXP_ArcticCoyote.labelPlural>arctic coyotes</AEXP_ArcticCoyote.labelPlural>
+  <AEXP_ArcticCoyote.lifeStages.0.label>arctic coyote puppy</AEXP_ArcticCoyote.lifeStages.0.label>
+  <AEXP_ArcticCoyote.lifeStages.0.labelPlural>arctic coyote puppies</AEXP_ArcticCoyote.lifeStages.0.labelPlural>
+  <AEXP_ArcticCoyote.lifeStages.1.label>arctic coyote</AEXP_ArcticCoyote.lifeStages.1.label>
+  <AEXP_ArcticCoyote.lifeStages.1.labelPlural>arctic coyotes</AEXP_ArcticCoyote.lifeStages.1.labelPlural>
+  <AEXP_ArcticCoyote.lifeStages.2.label>arctic coyote</AEXP_ArcticCoyote.lifeStages.2.label>
+  <AEXP_ArcticCoyote.lifeStages.2.labelPlural>arctic coyotes</AEXP_ArcticCoyote.lifeStages.2.labelPlural>
+
+  <!-- Black Bear -->
+
+  <AEXP_BlackBear.label>black bear</AEXP_BlackBear.label>
+  <AEXP_BlackBear.labelPlural>black bears</AEXP_BlackBear.labelPlural>
+  <AEXP_BlackBear.lifeStages.0.label>black bear</AEXP_BlackBear.lifeStages.0.label>
+  <AEXP_BlackBear.lifeStages.0.labelPlural>black bear</AEXP_BlackBear.lifeStages.0.labelPlural>
+  <AEXP_BlackBear.lifeStages.1.label>black bear</AEXP_BlackBear.lifeStages.1.label>
+  <AEXP_BlackBear.lifeStages.1.labelPlural>black bear</AEXP_BlackBear.lifeStages.1.labelPlural>
+  <AEXP_BlackBear.lifeStages.2.label>black bear</AEXP_BlackBear.lifeStages.2.label>
+  <AEXP_BlackBear.lifeStages.2.labelPlural>black bear</AEXP_BlackBear.lifeStages.2.labelPlural>
+
+</LanguageData>

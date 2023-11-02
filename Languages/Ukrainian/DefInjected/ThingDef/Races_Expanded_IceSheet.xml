@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Penguin -->
+
+  <AEXP_Penguin.label>penguin</AEXP_Penguin.label>
+  <AEXP_Penguin.description>An aquatic, flightless bird, only found in arctic regions. Often seen in massive flocks, penguins are fierce when cornered, and can quickly overrun any hunter incompetent enough to get close to them.</AEXP_Penguin.description>
+  <AEXP_Penguin_Leather.label>penguin leather</AEXP_Penguin_Leather.label>
+  <AEXP_Penguin_Leather.description>penguin leather</AEXP_Penguin_Leather.description>
+  <AEXP_Penguin_Leather.stuffProps.stuffAdjective>penguin leather</AEXP_Penguin_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cassowary -->
+  <AEXP_Penguin_Corpse.label>penguin corpse</AEXP_Penguin_Corpse.label>
+  <AEXP_Penguin_Corpse.description>penguin corpse</AEXP_Penguin_Corpse.description>
+
+
+  <!-- Seal -->
+
+  <AEXP_Seal.label>seal</AEXP_Seal.label>
+  <AEXP_Seal.description>A medium sized semi-aquatic mammal, which only comes ashore to eat, mate and escape from predators. Being an aggresive hunter, seals are capable of tackling much bigger prey and are known for cannibalism if the food is scarce.</AEXP_Seal.description>
+  <AEXP_Seal_Leather.label>seal leather</AEXP_Seal_Leather.label>
+  <AEXP_Seal_Leather.description>seal leather</AEXP_Seal_Leather.description>
+  <AEXP_Seal_Leather.stuffProps.stuffAdjective>seal leather</AEXP_Seal_Leather.stuffProps.stuffAdjective>
+  <AEXP_Seal_Meat.label>pinniped meat</AEXP_Seal_Meat.label>
+  <AEXP_Seal_Meat.description>pinniped meat</AEXP_Seal_Meat.description>
+  <AEXP_Seal_Corpse.label>seal corpse</AEXP_Seal_Corpse.label>
+  <AEXP_Seal_Corpse.description>seal corpse</AEXP_Seal_Corpse.description>
+
+
+  <!-- Walrus -->
+
+  <AEXP_Walrus.label>walrus</AEXP_Walrus.label>
+  <AEXP_Walrus.description>A large marine animal only found in the arctic regions of the planet, a walrus has prominent tusks which are a valuable luxury good across the planet.</AEXP_Walrus.description>
+  <AEXP_Walrus_Leather.label>walrus leather</AEXP_Walrus_Leather.label>
+  <AEXP_Walrus_Leather.description>walrus leather</AEXP_Walrus_Leather.description>
+  <AEXP_Walrus_Leather.stuffProps.stuffAdjective>walrus leather</AEXP_Walrus_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: AEXP_Seal -->
+  <AEXP_Walrus_Corpse.label>walrus corpse</AEXP_Walrus_Corpse.label>
+  <AEXP_Walrus_Corpse.description>walrus corpse</AEXP_Walrus_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CatAbyssinian -->
+
+  <AEXP_CatAbyssinian.label>abyssinian cat</AEXP_CatAbyssinian.label>
+  <AEXP_CatAbyssinian.labelPlural>abyssinian cats</AEXP_CatAbyssinian.labelPlural>
+  <AEXP_CatAbyssinian.lifeStages.0.label>abyssinian kitten</AEXP_CatAbyssinian.lifeStages.0.label>
+  <AEXP_CatAbyssinian.lifeStages.0.labelPlural>abyssinian kittens</AEXP_CatAbyssinian.lifeStages.0.labelPlural>
+  <AEXP_CatAbyssinian.lifeStages.1.label>abyssinian cat</AEXP_CatAbyssinian.lifeStages.1.label>
+  <AEXP_CatAbyssinian.lifeStages.1.labelPlural>abyssinian cat</AEXP_CatAbyssinian.lifeStages.1.labelPlural>
+  <AEXP_CatAbyssinian.lifeStages.2.label>abyssinian cat</AEXP_CatAbyssinian.lifeStages.2.label>
+  <AEXP_CatAbyssinian.lifeStages.2.labelPlural>abyssinian cat</AEXP_CatAbyssinian.lifeStages.2.labelPlural>
+
+  <!-- CatBengal -->
+
+  <AEXP_CatBengal.label>bengal cat</AEXP_CatBengal.label>
+  <AEXP_CatBengal.labelPlural>bengal cats</AEXP_CatBengal.labelPlural>
+  <AEXP_CatBengal.lifeStages.0.label>bengal kitten</AEXP_CatBengal.lifeStages.0.label>
+  <AEXP_CatBengal.lifeStages.0.labelPlural>bengal kittens</AEXP_CatBengal.lifeStages.0.labelPlural>
+  <AEXP_CatBengal.lifeStages.1.label>bengal cat</AEXP_CatBengal.lifeStages.1.label>
+  <AEXP_CatBengal.lifeStages.1.labelPlural>bengal cat</AEXP_CatBengal.lifeStages.1.labelPlural>
+  <AEXP_CatBengal.lifeStages.2.label>bengal cat</AEXP_CatBengal.lifeStages.2.label>
+  <AEXP_CatBengal.lifeStages.2.labelPlural>bengal cat</AEXP_CatBengal.lifeStages.2.labelPlural>
+
+  <!-- CatBritishShorthair -->
+
+  <AEXP_CatBritishShorthair.label>british shorthair cat</AEXP_CatBritishShorthair.label>
+  <AEXP_CatBritishShorthair.labelPlural>british shorthair cats</AEXP_CatBritishShorthair.labelPlural>
+  <AEXP_CatBritishShorthair.lifeStages.0.label>british shorthair kitten</AEXP_CatBritishShorthair.lifeStages.0.label>
+  <AEXP_CatBritishShorthair.lifeStages.0.labelPlural>british shorthair kittens</AEXP_CatBritishShorthair.lifeStages.0.labelPlural>
+  <AEXP_CatBritishShorthair.lifeStages.1.label>british shorthair cat</AEXP_CatBritishShorthair.lifeStages.1.label>
+  <AEXP_CatBritishShorthair.lifeStages.2.label>british shorthair cat</AEXP_CatBritishShorthair.lifeStages.2.label>
+  <AEXP_CatBritishShorthair.lifeStages.2.labelPlural>british shorthair cat</AEXP_CatBritishShorthair.lifeStages.2.labelPlural>
+
+  <!-- CatMaineCoon -->
+
+  <AEXP_CatMaineCoon.label>maine coon</AEXP_CatMaineCoon.label>
+  <AEXP_CatMaineCoon.labelPlural>maine coons</AEXP_CatMaineCoon.labelPlural>
+  <AEXP_CatMaineCoon.lifeStages.0.label>maine coon kitten</AEXP_CatMaineCoon.lifeStages.0.label>
+  <AEXP_CatMaineCoon.lifeStages.0.labelPlural>maine coon kittens</AEXP_CatMaineCoon.lifeStages.0.labelPlural>
+  <AEXP_CatMaineCoon.lifeStages.1.label>maine coon</AEXP_CatMaineCoon.lifeStages.1.label>
+  <AEXP_CatMaineCoon.lifeStages.1.labelPlural>maine coon</AEXP_CatMaineCoon.lifeStages.1.labelPlural>
+  <AEXP_CatMaineCoon.lifeStages.2.label>maine coon</AEXP_CatMaineCoon.lifeStages.2.label>
+  <AEXP_CatMaineCoon.lifeStages.2.labelPlural>maine coon</AEXP_CatMaineCoon.lifeStages.2.labelPlural>
+
+  <!-- CatMunchkin -->
+
+  <AEXP_CatMunchkin.label>munchkin cat</AEXP_CatMunchkin.label>
+  <AEXP_CatMunchkin.labelPlural>munchkin cats</AEXP_CatMunchkin.labelPlural>
+  <AEXP_CatMunchkin.lifeStages.0.label>munchkin kitten</AEXP_CatMunchkin.lifeStages.0.label>
+  <AEXP_CatMunchkin.lifeStages.0.labelPlural>munchkin kittens</AEXP_CatMunchkin.lifeStages.0.labelPlural>
+  <AEXP_CatMunchkin.lifeStages.1.label>munchkin cat</AEXP_CatMunchkin.lifeStages.1.label>
+  <AEXP_CatMunchkin.lifeStages.1.labelPlural>munchkin cat</AEXP_CatMunchkin.lifeStages.1.labelPlural>
+  <AEXP_CatMunchkin.lifeStages.2.label>munchkin cat</AEXP_CatMunchkin.lifeStages.2.label>
+  <AEXP_CatMunchkin.lifeStages.2.labelPlural>munchkin cat</AEXP_CatMunchkin.lifeStages.2.labelPlural>
+
+  <!-- NorwegianForestCat -->
+
+  <AEXP_CatNorwegianForest.label>norwegian forest cat</AEXP_CatNorwegianForest.label>
+  <AEXP_CatNorwegianForest.labelPlural>norwegian forest cats</AEXP_CatNorwegianForest.labelPlural>
+  <AEXP_CatNorwegianForest.lifeStages.0.label>norwegian forest kitten</AEXP_CatNorwegianForest.lifeStages.0.label>
+  <AEXP_CatNorwegianForest.lifeStages.0.labelPlural>norwegian forest kittens</AEXP_CatNorwegianForest.lifeStages.0.labelPlural>
+  <AEXP_CatNorwegianForest.lifeStages.1.label>norwegian forest cat</AEXP_CatNorwegianForest.lifeStages.1.label>
+  <AEXP_CatNorwegianForest.lifeStages.1.labelPlural>norwegian forest cat</AEXP_CatNorwegianForest.lifeStages.1.labelPlural>
+  <AEXP_CatNorwegianForest.lifeStages.2.label>norwegian forest cat</AEXP_CatNorwegianForest.lifeStages.2.label>
+  <AEXP_CatNorwegianForest.lifeStages.2.labelPlural>norwegian forest cat</AEXP_CatNorwegianForest.lifeStages.2.labelPlural>
+
+  <!-- CatPersian -->
+
+  <AEXP_CatPersian.label>persian cat</AEXP_CatPersian.label>
+  <AEXP_CatPersian.labelPlural>persian cats</AEXP_CatPersian.labelPlural>
+  <AEXP_CatPersian.lifeStages.0.label>persian kitten</AEXP_CatPersian.lifeStages.0.label>
+  <AEXP_CatPersian.lifeStages.0.labelPlural>persian kittens</AEXP_CatPersian.lifeStages.0.labelPlural>
+  <AEXP_CatPersian.lifeStages.1.label>persian cat</AEXP_CatPersian.lifeStages.1.label>
+  <AEXP_CatPersian.lifeStages.1.labelPlural>persian cat</AEXP_CatPersian.lifeStages.1.labelPlural>
+  <AEXP_CatPersian.lifeStages.2.label>persian cat</AEXP_CatPersian.lifeStages.2.label>
+  <AEXP_CatPersian.lifeStages.2.labelPlural>persian cat</AEXP_CatPersian.lifeStages.2.labelPlural>
+
+  <!-- CatSiamese -->
+
+  <AEXP_CatSiamese.label>siamese cat</AEXP_CatSiamese.label>
+  <AEXP_CatSiamese.labelPlural>siamese cats</AEXP_CatSiamese.labelPlural>
+  <AEXP_CatSiamese.lifeStages.0.label>siamese kitten</AEXP_CatSiamese.lifeStages.0.label>
+  <AEXP_CatSiamese.lifeStages.0.labelPlural>siamese kittens</AEXP_CatSiamese.lifeStages.0.labelPlural>
+  <AEXP_CatSiamese.lifeStages.1.label>siamese cat</AEXP_CatSiamese.lifeStages.1.label>
+  <AEXP_CatSiamese.lifeStages.1.labelPlural>siamese cat</AEXP_CatSiamese.lifeStages.1.labelPlural>
+  <AEXP_CatSiamese.lifeStages.2.label>siamese cat</AEXP_CatSiamese.lifeStages.2.label>
+  <AEXP_CatSiamese.lifeStages.2.labelPlural>siamese cat</AEXP_CatSiamese.lifeStages.2.labelPlural>
+
+  <!-- CatSomali -->
+
+  <AEXP_CatSomali.label>somali cat</AEXP_CatSomali.label>
+  <AEXP_CatSomali.labelPlural>somali cats</AEXP_CatSomali.labelPlural>
+  <AEXP_CatSomali.lifeStages.0.label>somali kitten</AEXP_CatSomali.lifeStages.0.label>
+  <AEXP_CatSomali.lifeStages.0.labelPlural>somali kittens</AEXP_CatSomali.lifeStages.0.labelPlural>
+  <AEXP_CatSomali.lifeStages.1.label>somali cat</AEXP_CatSomali.lifeStages.1.label>
+  <AEXP_CatSomali.lifeStages.1.labelPlural>somali cat</AEXP_CatSomali.lifeStages.1.labelPlural>
+  <AEXP_CatSomali.lifeStages.2.label>somali cat</AEXP_CatSomali.lifeStages.2.label>
+  <AEXP_CatSomali.lifeStages.2.labelPlural>somali cat</AEXP_CatSomali.lifeStages.2.labelPlural>
+
+  <!-- CatSphynx -->
+
+  <AEXP_CatSphynx.label>sphynx cat</AEXP_CatSphynx.label>
+  <AEXP_CatSphynx.labelPlural>sphynx cats</AEXP_CatSphynx.labelPlural>
+  <AEXP_CatSphynx.lifeStages.0.label>sphynx kitten</AEXP_CatSphynx.lifeStages.0.label>
+  <AEXP_CatSphynx.lifeStages.0.labelPlural>sphynx kittens</AEXP_CatSphynx.lifeStages.0.labelPlural>
+  <AEXP_CatSphynx.lifeStages.1.label>sphynx cat</AEXP_CatSphynx.lifeStages.1.label>
+  <AEXP_CatSphynx.lifeStages.1.labelPlural>sphynx cat</AEXP_CatSphynx.lifeStages.1.labelPlural>
+  <AEXP_CatSphynx.lifeStages.2.label>sphynx cat</AEXP_CatSphynx.lifeStages.2.label>
+  <AEXP_CatSphynx.lifeStages.2.labelPlural>sphynx cat</AEXP_CatSphynx.lifeStages.2.labelPlural>
+
+</LanguageData>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coyote -->
+
+  <AEXP_Coyote.label>coyote</AEXP_Coyote.label>
+  <AEXP_Coyote.description>A praire wolf native to desert and shrubland areas. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf.</AEXP_Coyote.description>
+  <AEXP_Coyotehead</AEXP_Coyote
+  <AEXP_Coyote_Leather.label>coyote leather</AEXP_Coyote_Leather.label>
+  <AEXP_Coyote_Leather.description>coyote leather</AEXP_Coyote_Leather.description>
+  <AEXP_Coyote_Leather.stuffProps.stuffAdjective>coyote leather</AEXP_Coyote_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Wolf_Timber -->
+  <AEXP_Coyote_Corpse.label>coyote corpse</AEXP_Coyote_Corpse.label>
+  <AEXP_Coyote_Corpse.description>coyote corpse</AEXP_Coyote_Corpse.description>
+
+
+  <!-- Giraffe -->
+
+  <AEXP_Giraffe.label>giraffe</AEXP_Giraffe.label>
+  <AEXP_Giraffe.description>A giraffe is one of the tallest mammals in the galaxy, using it's long neck to reach leaves and branches unavailable for smaller herbivores.</AEXP_Giraffe.description>
+  <AEXP_Giraffehead</AEXP_Giraffe
+  <AEXP_Giraffe_Leather.label>giraffe leather</AEXP_Giraffe_Leather.label>
+  <AEXP_Giraffe_Leather.description>giraffe leather</AEXP_Giraffe_Leather.description>
+  <AEXP_Giraffe_Leather.stuffProps.stuffAdjective>giraffe leather</AEXP_Giraffe_Leather.stuffProps.stuffAdjective>
+  <AEXP_Giraffe_Meat.label>giraffe meat</AEXP_Giraffe_Meat.label>
+  <AEXP_Giraffe_Meat.description>giraffe meat</AEXP_Giraffe_Meat.description>
+  <AEXP_Giraffe_Corpse.label>giraffe corpse</AEXP_Giraffe_Corpse.label>
+  <AEXP_Giraffe_Corpse.description>giraffe corpse</AEXP_Giraffe_Corpse.description>
+
+
+  <!-- Hippopotamus -->
+
+  <AEXP_Hippopotamus.label>hippopotamus</AEXP_Hippopotamus.label>
+  <AEXP_Hippopotamus.description>A massive semi-aquatic hoofed mammal with thick skin and a very powerful jaw.\n\nExtremely difficult to tame, these monstrous beings often attack on a failed attempt.</AEXP_Hippopotamus.description>
+  <AEXP_Hippopotamus_Leather.label>hippopotamus leather</AEXP_Hippopotamus_Leather.label>
+  <AEXP_Hippopotamus_Leather.description>hippopotamus leather</AEXP_Hippopotamus_Leather.description>
+  <AEXP_Hippopotamus_Leather.stuffProps.stuffAdjective>hippopotamus leather</AEXP_Hippopotamus_Leather.stuffProps.stuffAdjective>
+  <AEXP_Hippopotamus_Meat.label>hippopotamus meat</AEXP_Hippopotamus_Meat.label>
+  <AEXP_Hippopotamus_Meat.description>hippopotamus meat</AEXP_Hippopotamus_Meat.description>
+  <AEXP_Hippopotamus_Corpse.label>hippopotamus corpse</AEXP_Hippopotamus_Corpse.label>
+  <AEXP_Hippopotamus_Corpse.description>hippopotamus corpse</AEXP_Hippopotamus_Corpse.description>
+
+
+  <!-- Zebra -->
+
+  <AEXP_Zebra.label>zebra</AEXP_Zebra.label>
+  <AEXP_Zebra.description>A member of the horse family native to arid and desert areas. Whilst it doesn't share the same bodysize as a horse, due to years of evolution it's one of the fastest hooved animals.</AEXP_Zebra.description>
+  <AEXP_Zebra_Leather.label>zebra leather</AEXP_Zebra_Leather.label>
+  <AEXP_Zebra_Leather.description>zebra leather</AEXP_Zebra_Leather.description>
+  <AEXP_Zebra_Leather.stuffProps.stuffAdjective>zebra leather</AEXP_Zebra_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Horse -->
+  <AEXP_Zebra_Corpse.label>zebra corpse</AEXP_Zebra_Corpse.label>
+  <AEXP_Zebra_Corpse.description>zebra corpse</AEXP_Zebra_Corpse.description>
+
+
+  <!-- Wildebeest -->
+
+  <AEXP_Wildebeest.label>wildebeest</AEXP_Wildebeest.label>
+  <AEXP_Wildebeest.description>Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds.\n\nDue to its wildness, it produces milk at much slower rate than a standard cow.</AEXP_Wildebeest.description>
+  <AEXP_Wildebeest_Leather.label>wildebeest leather</AEXP_Wildebeest_Leather.label>
+  <AEXP_Wildebeest_Leather.description>wildebeest leather</AEXP_Wildebeest_Leather.description>
+  <AEXP_Wildebeest_Leather.stuffProps.stuffAdjective>wildebeest leather</AEXP_Wildebeest_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cow -->
+  <AEXP_Wildebeest_Corpse.label>wildebeest corpse</AEXP_Wildebeest_Corpse.label>
+  <AEXP_Wildebeest_Corpse.description>wildebeest corpse</AEXP_Wildebeest_Corpse.description>
+
+
+  <!-- Crocodile -->
+
+  <AEXP_Crocodile.label>crocodile</AEXP_Crocodile.label>
+  <AEXP_Crocodile.description>A large semi-aquatic reptile, most often found on the river banks. It's predatory insticts combined with an extremely strong jaw allow them to tackle much larger prey. Older crocodiles can grow to monstrous sizes.</AEXP_Crocodile.description>
+  <AEXP_Crocodile_Leather.label>crocodile leather</AEXP_Crocodile_Leather.label>
+  <AEXP_Crocodile_Leather.description>crocodile leather</AEXP_Crocodile_Leather.description>
+  <AEXP_Crocodile_Leather.stuffProps.stuffAdjective>crocodile leather</AEXP_Crocodile_Leather.stuffProps.stuffAdjective>
+  <AEXP_Crocodile_Meat.label>crocodile meat</AEXP_Crocodile_Meat.label>
+  <AEXP_Crocodile_Meat.description>crocodile meat</AEXP_Crocodile_Meat.description>
+  <AEXP_Crocodile_Corpse.label>crocodile corpse</AEXP_Crocodile_Corpse.label>
+  <AEXP_Crocodile_Corpse.description>crocodile corpse</AEXP_Crocodile_Corpse.description>
+
+
+  <!-- Cheetah -->
+
+  <AEXP_Cheetah.label>cheetah</AEXP_Cheetah.label>
+  <AEXP_Cheetah.description>These cats are lean and lanky, allowing them to reach incredible speeds. They have tan-colored fur with solid black, round spots, very long legs, a long narrow tail for balance, and a deep chest that contains large lungs.</AEXP_Cheetah.description>
+  <AEXP_Cheetah_Leather.label>cheetah leather</AEXP_Cheetah_Leather.label>
+  <AEXP_Cheetah_Leather.description>cheetah leather</AEXP_Cheetah_Leather.description>
+  <AEXP_Cheetah_Leather.stuffProps.stuffAdjective>cheetah leather</AEXP_Cheetah_Leather.stuffProps.stuffAdjective>
+  <AEXP_Cheetah_Meat.label>cheetah meat</AEXP_Cheetah_Meat.label>
+  <AEXP_Cheetah_Meat.description>cheetah meat</AEXP_Cheetah_Meat.description>
+  <AEXP_Cheetah_Corpse.label>cheetah corpse</AEXP_Cheetah_Corpse.label>
+  <AEXP_Cheetah_Corpse.description>cheetah corpse</AEXP_Cheetah_Corpse.description>
+
+
+</LanguageData>

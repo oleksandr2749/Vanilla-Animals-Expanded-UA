@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alligator -->
+
+  <AEXP_Alligator.label>alligator</AEXP_Alligator.label>
+  <AEXP_Alligator.description>The alligator is a large reptile that inhabits freshwater wetlands. They are apex predators and consume fish, amphibians, reptiles, birds, and mammals.  Like other crocodilians, healthy alligators may continue to grow throughout their lives.</AEXP_Alligator.description>
+  <AEXP_Alligator_Leather.label>alligator leather</AEXP_Alligator_Leather.label>
+  <AEXP_Alligator_Leather.description>alligator leather</AEXP_Alligator_Leather.description>
+  <AEXP_Alligator_Leather.stuffProps.stuffAdjective>alligator leather</AEXP_Alligator_Leather.stuffProps.stuffAdjective>
+  <AEXP_Alligator_Meat.label>alligator meat</AEXP_Alligator_Meat.label>
+  <AEXP_Alligator_Meat.description>alligator meat</AEXP_Alligator_Meat.description>
+  <AEXP_Alligator_Corpse.label>alligator corpse</AEXP_Alligator_Corpse.label>
+  <AEXP_Alligator_Corpse.description>alligator corpse</AEXP_Alligator_Corpse.description>
+
+
+  <!-- Anaconda -->
+
+  <AEXP_Anaconda.label>anaconda</AEXP_Anaconda.label>
+  <AEXP_Anaconda.description>The anaconda is the heaviest and one of the longest known snake species, reaching lengths of 5 meters. They are a primarily nocturnal species that tends to spend most of its life in or around water.</AEXP_Anaconda.description>
+  <AEXP_Anaconda_Leather.label>anaconda leather</AEXP_Anaconda_Leather.label>
+  <AEXP_Anaconda_Leather.description>anaconda leather</AEXP_Anaconda_Leather.description>
+  <AEXP_Anaconda_Leather.stuffProps.stuffAdjective>anaconda leather</AEXP_Anaconda_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cobra -->
+  <AEXP_Anaconda_Corpse.label>anaconda corpse</AEXP_Anaconda_Corpse.label>
+  <AEXP_Anaconda_Corpse.description>anaconda corpse</AEXP_Anaconda_Corpse.description>
+
+
+  <!-- Indian Elephant -->
+
+  <AEXP_IndianElephant.label>indian elephant</AEXP_IndianElephant.label>
+  <AEXP_IndianElephant.description>The Indian elephant is one of the largest unmodified land animals. In general, Indian elephants are smaller, have smaller ears, but relatively broader skulls and larger trunks than African elephants, and have the highest body point on the head.</AEXP_IndianElephant.description>
+  <AEXP_IndianElephant_Leather.label>indian elephant leather</AEXP_IndianElephant_Leather.label>
+  <AEXP_IndianElephant_Leather.description>indian elephant leather</AEXP_IndianElephant_Leather.description>
+  <AEXP_IndianElephant_Leather.stuffProps.stuffAdjective>indian elephant leather</AEXP_IndianElephant_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Elephant -->
+  <AEXP_IndianElephant_Corpse.label>indian elephant corpse</AEXP_IndianElephant_Corpse.label>
+  <AEXP_IndianElephant_Corpse.description>indian elephant corpse</AEXP_IndianElephant_Corpse.description>
+
+
+</LanguageData>

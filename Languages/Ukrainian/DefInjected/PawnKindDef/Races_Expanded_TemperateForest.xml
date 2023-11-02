@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Red Panda -->
+
+  <AEXP_RedPanda.label>red panda</AEXP_RedPanda.label>
+  <AEXP_RedPanda.labelPlural>red pandas</AEXP_RedPanda.labelPlural>
+  <AEXP_RedPanda.lifeStages.0.label>red panda</AEXP_RedPanda.lifeStages.0.label>
+  <AEXP_RedPanda.lifeStages.0.labelPlural>red panda</AEXP_RedPanda.lifeStages.0.labelPlural>
+  <AEXP_RedPanda.lifeStages.1.label>red panda</AEXP_RedPanda.lifeStages.1.label>
+  <AEXP_RedPanda.lifeStages.1.labelPlural>red panda</AEXP_RedPanda.lifeStages.1.labelPlural>
+  <AEXP_RedPanda.lifeStages.2.label>red panda</AEXP_RedPanda.lifeStages.2.label>
+  <AEXP_RedPanda.lifeStages.2.labelPlural>red panda</AEXP_RedPanda.lifeStages.2.labelPlural>
+
+  <!-- Badger -->
+
+  <AEXP_Badger.label>badger</AEXP_Badger.label>
+  <AEXP_Badger.labelPlural>badgers</AEXP_Badger.labelPlural>
+  <AEXP_Badger.lifeStages.0.label>badger</AEXP_Badger.lifeStages.0.label>
+  <AEXP_Badger.lifeStages.0.labelPlural>badger</AEXP_Badger.lifeStages.0.labelPlural>
+  <AEXP_Badger.lifeStages.1.label>badger</AEXP_Badger.lifeStages.1.label>
+  <AEXP_Badger.lifeStages.1.labelPlural>badger</AEXP_Badger.lifeStages.1.labelPlural>
+  <AEXP_Badger.lifeStages.2.label>badger</AEXP_Badger.lifeStages.2.label>
+  <AEXP_Badger.lifeStages.2.labelPlural>badger</AEXP_Badger.lifeStages.2.labelPlural>
+
+  <!-- Wild Goose -->
+
+  <AEXP_WildGoose.label>wild goose</AEXP_WildGoose.label>
+  <AEXP_WildGoose.labelPlural>wild geese</AEXP_WildGoose.labelPlural>
+  <AEXP_WildGoose.lifeStages.0.label>gosling</AEXP_WildGoose.lifeStages.0.label>
+  <AEXP_WildGoose.lifeStages.0.labelPlural>goslings</AEXP_WildGoose.lifeStages.0.labelPlural>
+  <AEXP_WildGoose.lifeStages.1.label>wild goose</AEXP_WildGoose.lifeStages.1.label>
+  <AEXP_WildGoose.lifeStages.1.labelPlural>wild geese</AEXP_WildGoose.lifeStages.1.labelPlural>
+  <AEXP_WildGoose.lifeStages.2.label>wild goose</AEXP_WildGoose.lifeStages.2.label>
+  <AEXP_WildGoose.lifeStages.2.labelPlural>wild geese</AEXP_WildGoose.lifeStages.2.labelPlural>
+
+  <!-- Beaver -->
+
+  <AEXP_Beaver.label>beaver</AEXP_Beaver.label>
+  <AEXP_Beaver.labelPlural>beavers</AEXP_Beaver.labelPlural>
+  <AEXP_Beaver.lifeStages.0.label>beaver</AEXP_Beaver.lifeStages.0.label>
+  <AEXP_Beaver.lifeStages.0.labelPlural>beaver</AEXP_Beaver.lifeStages.0.labelPlural>
+  <AEXP_Beaver.lifeStages.1.label>beaver</AEXP_Beaver.lifeStages.1.label>
+  <AEXP_Beaver.lifeStages.1.labelPlural>beaver</AEXP_Beaver.lifeStages.1.labelPlural>
+  <AEXP_Beaver.lifeStages.2.label>beaver</AEXP_Beaver.lifeStages.2.label>
+  <AEXP_Beaver.lifeStages.2.labelPlural>beaver</AEXP_Beaver.lifeStages.2.labelPlural>
+
+  <!-- Hedgehog -->
+
+  <AEXP_Hedgehog.label>hedgehog</AEXP_Hedgehog.label>
+  <AEXP_Hedgehog.labelPlural>hedgehogs</AEXP_Hedgehog.labelPlural>
+  <AEXP_Hedgehog.lifeStages.0.label>hedgehog</AEXP_Hedgehog.lifeStages.0.label>
+  <AEXP_Hedgehog.lifeStages.0.labelPlural>hedgehog</AEXP_Hedgehog.lifeStages.0.labelPlural>
+  <AEXP_Hedgehog.lifeStages.1.label>hedgehog</AEXP_Hedgehog.lifeStages.1.label>
+  <AEXP_Hedgehog.lifeStages.1.labelPlural>hedgehog</AEXP_Hedgehog.lifeStages.1.labelPlural>
+  <AEXP_Hedgehog.lifeStages.2.label>hedgehog</AEXP_Hedgehog.lifeStages.2.label>
+  <AEXP_Hedgehog.lifeStages.2.labelPlural>hedgehog</AEXP_Hedgehog.lifeStages.2.labelPlural>
+
+</LanguageData>

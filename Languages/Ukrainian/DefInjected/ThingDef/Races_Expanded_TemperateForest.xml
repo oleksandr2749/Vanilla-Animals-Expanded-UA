@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Red Panda -->
+
+  <AEXP_RedPanda.label>red panda</AEXP_RedPanda.label>
+  <AEXP_RedPanda.description>The red panda is a small mammal, slightly larger than a domestic cat, with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. Red pandas are very skillful and acrobatic animals that predominantly stay in trees. It is a solitary animal, mainly active from dusk to dawn, though they can be quite affectionate if properly tamed.</AEXP_RedPanda.description>
+  <AEXP_RedPanda_Leather.label>red panda leather</AEXP_RedPanda_Leather.label>
+  <AEXP_RedPanda_Leather.description>red panda leather</AEXP_RedPanda_Leather.description>
+  <AEXP_RedPanda_Leather.stuffProps.stuffAdjective>red panda leather</AEXP_RedPanda_Leather.stuffProps.stuffAdjective>
+  <AEXP_RedPanda_Meat.label>red panda meat</AEXP_RedPanda_Meat.label>
+  <AEXP_RedPanda_Meat.description>red panda meat</AEXP_RedPanda_Meat.description>
+  <AEXP_RedPanda_Corpse.label>red panda corpse</AEXP_RedPanda_Corpse.label>
+  <AEXP_RedPanda_Corpse.description>red panda corpse</AEXP_RedPanda_Corpse.description>
+
+
+  <!-- Badger -->
+
+  <AEXP_Badger.label>badger</AEXP_Badger.label>
+  <AEXP_Badger.description>Badgers are small nocturnal mammals with flat, wedge-shaped bodies, broad feet with long claws and coarse hair. Badgers have strong limbs and sharp claws that help them dig burrows and find food underground. They are omnivorous, with a diet consisting largely of earthworms, insects, grubs and small animals such as hedgehogs and rabbits.</AEXP_Badger.description>
+  <AEXP_Badger_Leather.label>badger leather</AEXP_Badger_Leather.label>
+  <AEXP_Badger_Leather.description>badger leather</AEXP_Badger_Leather.description>
+  <AEXP_Badger_Leather.stuffProps.stuffAdjective>badger leather</AEXP_Badger_Leather.stuffProps.stuffAdjective>
+  <AEXP_Badger_Meat.label>badger meat</AEXP_Badger_Meat.label>
+  <AEXP_Badger_Meat.description>badger meat</AEXP_Badger_Meat.description>
+  <AEXP_Badger_Corpse.label>badger corpse</AEXP_Badger_Corpse.label>
+  <AEXP_Badger_Corpse.description>badger corpse</AEXP_Badger_Corpse.description>
+
+
+  <!-- Wild Goose -->
+
+  <AEXP_WildGoose.label>wild goose</AEXP_WildGoose.label>
+  <AEXP_WildGoose.description>A non-domesticated grey goose. Compared to their domesticated brethren, which have been selected over thousands of years for larger size, wild geese don't lay as many eggs, and they are renowned for their aggressive temperament. Peace was never an option.</AEXP_WildGoose.description>
+  <AEXP_WildGoose_Leather.label>wild goose leather</AEXP_WildGoose_Leather.label>
+  <AEXP_WildGoose_Leather.description>wild goose leather</AEXP_WildGoose_Leather.description>
+  <AEXP_WildGoose_Leather.stuffProps.stuffAdjective>wild goose leather</AEXP_WildGoose_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cassowary -->
+  <AEXP_WildGoose_Corpse.label>wild goose corpse</AEXP_WildGoose_Corpse.label>
+  <AEXP_WildGoose_Corpse.description>wild goose corpse</AEXP_WildGoose_Corpse.description>
+
+
+  <!-- Beaver -->
+
+  <AEXP_Beaver.label>beaver</AEXP_Beaver.label>
+  <AEXP_Beaver.description>A large semiaquatic rodent with a flat, paddle-shaped tail and webbed hind feet. Beavers are renowned for their innate construction skills, building their homes, or "lodges", out of sticks, twigs, rocks, and mud in lakes, streams, and tidal river deltas. Beavers are well known for building dams across streams and constructing their lodges in the artificial ponds which form.</AEXP_Beaver.description>
+  <AEXP_Beaver_Leather.label>beaver leather</AEXP_Beaver_Leather.label>
+  <AEXP_Beaver_Leather.description>beaver leather</AEXP_Beaver_Leather.description>
+  <AEXP_Beaver_Leather.stuffProps.stuffAdjective>beaver leather</AEXP_Beaver_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Alphabeaver -->
+  <AEXP_Beaver_Corpse.label>beaver corpse</AEXP_Beaver_Corpse.label>
+  <AEXP_Beaver_Corpse.description>beaver corpse</AEXP_Beaver_Corpse.description>
+
+
+  <!-- Hedgehog -->
+
+  <AEXP_Hedgehog.label>hedgehog</AEXP_Hedgehog.label>
+  <AEXP_Hedgehog.description>Hedgehogs are diminutive mammals with cone-shaped faces, short legs and bodies that are covered with porcupine-like quills. When in danger, the hedgehog rolls into a ball so that the quills cover the entire area of their exposed body and protects the animal from predators.</AEXP_Hedgehog.description>
+  <AEXP_Hedgehog_Leather.label>hedgehog leather</AEXP_Hedgehog_Leather.label>
+  <AEXP_Hedgehog_Leather.description>hedgehog leather</AEXP_Hedgehog_Leather.description>
+  <AEXP_Hedgehog_Leather.stuffProps.stuffAdjective>hedgehog leather</AEXP_Hedgehog_Leather.stuffProps.stuffAdjective>
+  <AEXP_Hedgehog_Meat.label>hedgehog meat</AEXP_Hedgehog_Meat.label>
+  <AEXP_Hedgehog_Meat.description>hedgehog meat</AEXP_Hedgehog_Meat.description>
+  <AEXP_Hedgehog_Corpse.label>hedgehog corpse</AEXP_Hedgehog_Corpse.label>
+  <AEXP_Hedgehog_Corpse.description>hedgehog corpse</AEXP_Hedgehog_Corpse.description>
+
+
+</LanguageData>

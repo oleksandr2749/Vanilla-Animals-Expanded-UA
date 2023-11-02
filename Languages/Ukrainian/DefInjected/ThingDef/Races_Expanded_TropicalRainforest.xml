@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gorilla -->
+
+  <AEXP_Gorilla.label>gorilla</AEXP_Gorilla.label>
+  <AEXP_Gorilla.description>These ground-dwelling herbivorous apes are the largest living primates, and they are the next closest living relatives to humans after the chimpanzees and bonobos. Like all the great apes, the arms of the gorilla are longer than its legs. Gorillas are usually surprisingly shy, though they may show aggression by beating their chests and charging if their social group is threatened.</AEXP_Gorilla.description>
+  <AEXP_Gorilla_Leather.label>gorilla leather</AEXP_Gorilla_Leather.label>
+  <AEXP_Gorilla_Leather.description>gorilla leather</AEXP_Gorilla_Leather.description>
+  <AEXP_Gorilla_Leather.stuffProps.stuffAdjective>gorilla leather</AEXP_Gorilla_Leather.stuffProps.stuffAdjective>
+  <AEXP_Gorilla_Meat.label>primate meat</AEXP_Gorilla_Meat.label>
+  <AEXP_Gorilla_Meat.description>primate meat</AEXP_Gorilla_Meat.description>
+  <AEXP_Gorilla_Corpse.label>gorilla corpse</AEXP_Gorilla_Corpse.label>
+  <AEXP_Gorilla_Corpse.description>gorilla corpse</AEXP_Gorilla_Corpse.description>
+
+
+  <!-- Jaguar -->
+
+  <AEXP_Jaguar.label>jaguar</AEXP_Jaguar.label>
+  <AEXP_Jaguar.description>A large felid species and the only existing member of the Panthera native to the Americas in old Earth. This spotted cat closely resembles the leopard, but is usually larger and sturdier. The jaguar enjoys swimming and is largely a solitary, opportunistic, stalk-and-ambush predator at the top of the food chain.</AEXP_Jaguar.description>
+  <AEXP_Jaguar_Leather.label>jaguar leather</AEXP_Jaguar_Leather.label>
+  <AEXP_Jaguar_Leather.description>jaguar leather</AEXP_Jaguar_Leather.description>
+  <AEXP_Jaguar_Leather.stuffProps.stuffAdjective>jaguar leather</AEXP_Jaguar_Leather.stuffProps.stuffAdjective>
+  <AEXP_Jaguar_Meat.label>jaguar meat</AEXP_Jaguar_Meat.label>
+  <AEXP_Jaguar_Meat.description>jaguar meat</AEXP_Jaguar_Meat.description>
+  <AEXP_Jaguar_Corpse.label>jaguar corpse</AEXP_Jaguar_Corpse.label>
+  <AEXP_Jaguar_Corpse.description>jaguar corpse</AEXP_Jaguar_Corpse.description>
+
+
+  <!-- Lemur -->
+
+  <AEXP_Lemur.label>lemur</AEXP_Lemur.label>
+  <AEXP_Lemur.description>A small primate, lemurs are arboreal, and usually nocturnal. They have a pointed snout, large eyes, and a long tail. Although they are social creatures, they have traditionally been regarded as being less intelligent than other primates, since they don't exhibit behaviours of tool use in the wild.</AEXP_Lemur.description>
+  <AEXP_Lemur_Leather.label>lemur leather</AEXP_Lemur_Leather.label>
+  <AEXP_Lemur_Leather.description>lemur leather</AEXP_Lemur_Leather.description>
+  <AEXP_Lemur_Leather.stuffProps.stuffAdjective>lemur leather</AEXP_Lemur_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: AEXP_Gorilla -->
+  <AEXP_Lemur_Corpse.label>lemur corpse</AEXP_Lemur_Corpse.label>
+  <AEXP_Lemur_Corpse.description>lemur corpse</AEXP_Lemur_Corpse.description>
+
+
+  <!-- Mandrill -->
+
+  <AEXP_Mandrill.label>mandrill</AEXP_Mandrill.label>
+  <AEXP_Mandrill.description>Mandrills are one of the largest of all monkeys. They are shy and reclusive primates that live only in rain forests. Mandrills are extremely colorful, perhaps more so than any other mammal. They are easily identifiable by the blue and red skin on their faces and their brightly hued rumps.</AEXP_Mandrill.description>
+  <AEXP_Mandrill_Leather.label>mandrill leather</AEXP_Mandrill_Leather.label>
+  <AEXP_Mandrill_Leather.description>mandrill leather</AEXP_Mandrill_Leather.description>
+  <AEXP_Mandrill_Leather.stuffProps.stuffAdjective>mandrill leather</AEXP_Mandrill_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: AEXP_Gorilla -->
+  <AEXP_Mandrill_Corpse.label>mandrill corpse</AEXP_Mandrill_Corpse.label>
+  <AEXP_Mandrill_Corpse.description>mandrill corpse</AEXP_Mandrill_Corpse.description>
+
+
+  <!-- Tapir -->
+
+  <AEXP_Tapir.label>tapir</AEXP_Tapir.label>
+  <AEXP_Tapir.description>A large, herbivorous mammal, similar in shape to a pig, with a short nose trunk, tapirs inhabit jungle and forest regions.</AEXP_Tapir.description>
+  <AEXP_Tapir_Leather.label>tapir leather</AEXP_Tapir_Leather.label>
+  <AEXP_Tapir_Leather.description>tapir leather</AEXP_Tapir_Leather.description>
+  <AEXP_Tapir_Leather.stuffProps.stuffAdjective>tapir leather</AEXP_Tapir_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Pig -->
+  <AEXP_Tapir_Corpse.label>tapir corpse</AEXP_Tapir_Corpse.label>
+  <AEXP_Tapir_Corpse.description>tapir corpse</AEXP_Tapir_Corpse.description>
+
+
+  <!-- Tiger -->
+
+  <AEXP_Tiger.label>tiger</AEXP_Tiger.label>
+  <AEXP_Tiger.description>The tiger is the largest species among the big cats. It is most recognisable for its dark vertical stripes on reddish-orange fur with a lighter underside. It is an apex predator, territorial and generally solitary. In the wild, tigers mostly feed on large and medium-sized mammals.</AEXP_Tiger.description>
+  <AEXP_Tiger_Leather.label>tiger leather</AEXP_Tiger_Leather.label>
+  <AEXP_Tiger_Leather.description>tiger leather</AEXP_Tiger_Leather.description>
+  <AEXP_Tiger_Leather.stuffProps.stuffAdjective>tiger leather</AEXP_Tiger_Leather.stuffProps.stuffAdjective>
+  <AEXP_Tiger_Meat.label>tiger meat</AEXP_Tiger_Meat.label>
+  <AEXP_Tiger_Meat.description>tiger meat</AEXP_Tiger_Meat.description>
+  <AEXP_Tiger_Corpse.label>tiger corpse</AEXP_Tiger_Corpse.label>
+  <AEXP_Tiger_Corpse.description>tiger corpse</AEXP_Tiger_Corpse.description>
+
+
+</LanguageData>

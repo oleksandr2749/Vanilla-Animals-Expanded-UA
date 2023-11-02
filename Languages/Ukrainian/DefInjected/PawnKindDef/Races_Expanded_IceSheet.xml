@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Penguin -->
+
+  <AEXP_Penguin.label>penguin</AEXP_Penguin.label>
+  <AEXP_Penguin.labelPlural>penguins</AEXP_Penguin.labelPlural>
+  <AEXP_Penguin.lifeStages.0.label>penguin</AEXP_Penguin.lifeStages.0.label>
+  <AEXP_Penguin.lifeStages.0.labelPlural>penguins</AEXP_Penguin.lifeStages.0.labelPlural>
+  <AEXP_Penguin.lifeStages.1.label>penguin</AEXP_Penguin.lifeStages.1.label>
+  <AEXP_Penguin.lifeStages.1.labelPlural>penguins</AEXP_Penguin.lifeStages.1.labelPlural>
+  <AEXP_Penguin.lifeStages.2.label>penguin</AEXP_Penguin.lifeStages.2.label>
+  <AEXP_Penguin.lifeStages.2.labelPlural>penguins</AEXP_Penguin.lifeStages.2.labelPlural>
+
+  <!-- Seal -->
+
+  <AEXP_Seal.label>seal</AEXP_Seal.label>
+  <AEXP_Seal.labelPlural>seals</AEXP_Seal.labelPlural>
+  <AEXP_Seal.lifeStages.0.label>seal</AEXP_Seal.lifeStages.0.label>
+  <AEXP_Seal.lifeStages.0.labelPlural>seal</AEXP_Seal.lifeStages.0.labelPlural>
+  <AEXP_Seal.lifeStages.1.label>seal</AEXP_Seal.lifeStages.1.label>
+  <AEXP_Seal.lifeStages.1.labelPlural>seal</AEXP_Seal.lifeStages.1.labelPlural
+  <AEXP_Seal.lifeStages.2.label>seal</AEXP_Seal.lifeStages.2.label>
+  <AEXP_Seal.lifeStages.2.labelPlural>seal</AEXP_Seal.lifeStages.2.labelPlural>
+
+  <!-- Walrus -->
+
+  <AEXP_Walrus.label>walrus</AEXP_Walrus.label>
+  <AEXP_Walrus.labelPlural>walruss</AEXP_Walrus.labelPlural>
+  <AEXP_Walrus.lifeStages.0.label>walrus</AEXP_Walrus.lifeStages.0.label>
+  <AEXP_Walrus.lifeStages.0.labelPlural>walrus</AEXP_Walrus.lifeStages.0.labelPlural>
+  <AEXP_Walrus.lifeStages.1.label>walrus</AEXP_Walrus.lifeStages.1.label>
+  <AEXP_Walrus.lifeStages.1.labelPlural>walrus</AEXP_Walrus.lifeStages.1.labelPlural>
+  <AEXP_Walrus.lifeStages.2.label>walrus</AEXP_Walrus.lifeStages.2.label>
+  <AEXP_Walrus.lifeStages.2.labelPlural>walrus</AEXP_Walrus.lifeStages.2.labelPlural>
+
+</LanguageData>

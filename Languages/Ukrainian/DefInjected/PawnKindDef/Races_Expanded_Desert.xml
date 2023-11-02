@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hyena -->
+
+  <AEXP_Hyena.label>hyena</AEXP_Hyena.label>
+  <AEXP_Hyena.labelPlural>hyenas</AEXP_Hyena.labelPlural>
+  <AEXP_Hyena.lifeStages.0.label>hyena cub</AEXP_Hyena.lifeStages.0.label>
+  <AEXP_Hyena.lifeStages.0.labelPlural>hyena cubs</AEXP_Hyena.lifeStages.0.labelPlural>
+  <AEXP_Hyena.lifeStages.1.label>hyena</AEXP_Hyena.lifeStages.1.label>
+  <AEXP_Hyena.lifeStages.1.labelPlural>hyenas</AEXP_Hyena.lifeStages.1.labelPlural>
+  <AEXP_Hyena.lifeStages.2.label>hyena</AEXP_Hyena.lifeStages.2.label>
+  <AEXP_Hyena.lifeStages.2.labelPlural>hyenas</AEXP_Hyena.lifeStages.2.labelPlural>
+
+  <!-- Desert Tortoise -->
+
+  <AEXP_DesertTortoise.label>desert tortoise</AEXP_DesertTortoise.label>
+  <AEXP_DesertTortoise.labelPlural>desert tortoises</AEXP_DesertTortoise.labelPlural>
+  <AEXP_DesertTortoise.lifeStages.0.label>desert tortoise</AEXP_DesertTortoise.lifeStages.0.label>
+  <AEXP_DesertTortoise.lifeStages.0.labelPlural>desert tortoise</AEXP_DesertTortoise.lifeStages.0.labelPlural>
+  <AEXP_DesertTortoise.lifeStages.1.label>desert tortoise</AEXP_DesertTortoise.lifeStages.1.label>
+  <AEXP_DesertTortoise.lifeStages.1.labelPlural>desert tortoise</AEXP_DesertTortoise.lifeStages.1.labelPlural>
+  <AEXP_DesertTortoise.lifeStages.2.label>desert tortoise</AEXP_DesertTortoise.lifeStages.2.label>
+  <AEXP_DesertTortoise.lifeStages.2.labelPlural>desert tortoise</AEXP_DesertTortoise.lifeStages.2.labelPlural>
+
+  <!-- Lion -->
+
+  <AEXP_Lion.label>lion</AEXP_Lion.label>
+  <AEXP_Lion.labelPlural>lions</AEXP_Lion.labelPlural>
+  <AEXP_Lion.lifeStages.0.label>lion cub</AEXP_Lion.lifeStages.0.label>
+  <AEXP_Lion.lifeStages.0.labelPlural>lion cubs</AEXP_Lion.lifeStages.0.labelPlural>
+  <AEXP_Lion.lifeStages.1.label>lion</AEXP_Lion.lifeStages.1.label>
+  <AEXP_Lion.lifeStages.1.labelPlural>lions</AEXP_Lion.lifeStages.1.labelPlural>
+  <AEXP_Lion.lifeStages.2.label>lion</AEXP_Lion.lifeStages.2.label>
+  <AEXP_Lion.lifeStages.2.labelPlural>lions</AEXP_Lion.lifeStages.2.labelPlural>
+
+  <!-- Gila Monster -->
+
+  <AEXP_GilaMonster.label>gila monster</AEXP_GilaMonster.label>
+  <AEXP_GilaMonster.labelPlural>gila monsters</AEXP_GilaMonster.labelPlural>
+  <AEXP_GilaMonster.lifeStages.0.label>gila monster</AEXP_GilaMonster.lifeStages.0.label>
+  <AEXP_GilaMonster.lifeStages.0.labelPlural>gila monster</AEXP_GilaMonster.lifeStages.0.labelPlural>
+  <AEXP_GilaMonster.lifeStages.1.label>gila monster</AEXP_GilaMonster.lifeStages.1.label>
+  <AEXP_GilaMonster.lifeStages.1.labelPlural>gila monster</AEXP_GilaMonster.lifeStages.1.labelPlural>
+  <AEXP_GilaMonster.lifeStages.2.label>gila monster</AEXP_GilaMonster.lifeStages.2.label>
+  <AEXP_GilaMonster.lifeStages.2.labelPlural>gila monster</AEXP_GilaMonster.lifeStages.2.labelPlural>
+
+</LanguageData>

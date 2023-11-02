@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Muskox -->
+
+  <AEXP_Muskox.label>musk ox</AEXP_Muskox.label>
+  <AEXP_Muskox.labelPlural>musk oxen</AEXP_Muskox.labelPlural>
+  <AEXP_Muskox.lifeStages.0.label>musk ox calf</AEXP_Muskox.lifeStages.0.label>
+  <AEXP_Muskox.lifeStages.0.labelPlural>musk oxen calves</AEXP_Muskox.lifeStages.0.labelPlural>
+  <AEXP_Muskox.lifeStages.1.label>musk ox</AEXP_Muskox.lifeStages.1.label>
+  <AEXP_Muskox.lifeStages.1.labelPlural>musk oxen</AEXP_Muskox.lifeStages.1.labelPlural>
+  <AEXP_Muskox.lifeStages.2.label>musk ox</AEXP_Muskox.lifeStages.2.label>
+  <AEXP_Muskox.lifeStages.2.labelPlural>musk oxen</AEXP_Muskox.lifeStages.2.labelPlural>
+
+  <!-- Moose -->
+
+  <AEXP_Moose.label>moose</AEXP_Moose.label>
+  <AEXP_Moose.labelPlural>moose</AEXP_Moose.labelPlural>
+  <AEXP_Moose.lifeStages.0.label>moose calf</AEXP_Moose.lifeStages.0.label>
+  <AEXP_Moose.lifeStages.0.labelPlural>moose calves</AEXP_Moose.lifeStages.0.labelPlural>
+  <AEXP_Moose.lifeStages.1.label>moose</AEXP_Moose.lifeStages.1.label>
+  <AEXP_Moose.lifeStages.1.labelPlural>moose</AEXP_Moose.lifeStages.1.labelPlural>
+  <AEXP_Moose.lifeStages.2.label>moose</AEXP_Moose.lifeStages.2.label>
+  <AEXP_Moose.lifeStages.2.labelPlural>moose</AEXP_Moose.lifeStages.2.labelPlural>
+
+
+  <!-- Megawolverine -->
+
+  <AEXP_MegaWolverine.label>megawolverine</AEXP_MegaWolverine.label>
+  <AEXP_MegaWolverine.labelPlural>megawolverines</AEXP_MegaWolverine.labelPlural>
+  <AEXP_MegaWolverine.lifeStages.0.label>megawolverine</AEXP_MegaWolverine.lifeStages.0.label>
+  <AEXP_MegaWolverine.lifeStages.0.labelPlural>megawolverine</AEXP_MegaWolverine.lifeStages.0.labelPlural>
+  <AEXP_MegaWolverine.lifeStages.1.label>megawolverine</AEXP_MegaWolverine.lifeStages.1.label>
+  <AEXP_MegaWolverine.lifeStages.1.labelPlural>megawolverine</AEXP_MegaWolverine.lifeStages.1.labelPlural>
+  <AEXP_MegaWolverine.lifeStages.2.label>megawolverine</AEXP_MegaWolverine.lifeStages.2.label>
+  <AEXP_MegaWolverine.lifeStages.2.labelPlural>megawolverine</AEXP_MegaWolverine.lifeStages.2.labelPlural>
+
+  <!-- Porcupine -->
+
+  <AEXP_Porcupine.label>porcupine</AEXP_Porcupine.label>
+  <AEXP_Porcupine.labelPlural>porcupines</AEXP_Porcupine.labelPlural>
+  <AEXP_Porcupine.lifeStages.0.label>porcupine</AEXP_Porcupine.lifeStages.0.label>
+  <AEXP_Porcupine.lifeStages.0.labelPlural>porcupine</AEXP_Porcupine.lifeStages.0.labelPlural>
+  <AEXP_Porcupine.lifeStages.1.label>porcupine</AEXP_Porcupine.lifeStages.1.label>
+  <AEXP_Porcupine.lifeStages.1.labelPlural>porcupine</AEXP_Porcupine.lifeStages.1.labelPlural>
+  <AEXP_Porcupine.lifeStages.2.label>porcupine</AEXP_Porcupine.lifeStages.2.label>
+  <AEXP_Porcupine.lifeStages.2.labelPlural>porcupine</AEXP_Porcupine.lifeStages.2.labelPlural>
+
+</LanguageData>

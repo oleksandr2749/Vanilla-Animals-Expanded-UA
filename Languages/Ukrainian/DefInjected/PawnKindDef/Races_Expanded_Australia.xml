@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Boombat -->
+
+  <AEXP_Boombat.label>boombat</AEXP_Boombat.label>
+  <AEXP_Boombat.labelPlural>boombats</AEXP_Boombat.labelPlural>
+  <AEXP_Boombat.lifeStages.0.label>boombat</AEXP_Boombat.lifeStages.0.label>
+  <AEXP_Boombat.lifeStages.0.labelPlural>boombat</AEXP_Boombat.lifeStages.0.labelPlural>
+  <AEXP_Boombat.lifeStages.1.label>boombat</AEXP_Boombat.lifeStages.1.label>
+  <AEXP_Boombat.lifeStages.1.labelPlural>boombat</AEXP_Boombat.lifeStages.1.labelPlural>
+  <AEXP_Boombat.lifeStages.2.label>boombat</AEXP_Boombat.lifeStages.2.label>
+  <AEXP_Boombat.lifeStages.2.labelPlural>boombat</AEXP_Boombat.lifeStages.2.labelPlural>
+
+  <!-- Kangaroo -->
+
+  <AEXP_Kangaroo.label>kangaroo</AEXP_Kangaroo.label>
+  <AEXP_Kangaroo.labelPlural>kangaroos</AEXP_Kangaroo.labelPlural>
+  <AEXP_Kangaroo.lifeStages.0.label>kangaroo</AEXP_Kangaroo.lifeStages.0.label>
+  <AEXP_Kangaroo.lifeStages.0.labelPlural>kangaroo</AEXP_Kangaroo.lifeStages.0.labelPlural>
+  <AEXP_Kangaroo.lifeStages.1.label>kangaroo</AEXP_Kangaroo.lifeStages.1.label>
+  <AEXP_Kangaroo.lifeStages.1.labelPlural>kangaroo</AEXP_Kangaroo.lifeStages.1.labelPlural>
+  <AEXP_Kangaroo.lifeStages.2.label>kangaroo</AEXP_Kangaroo.lifeStages.2.label>
+  <AEXP_Kangaroo.lifeStages.2.labelPlural>kangaroo</AEXP_Kangaroo.lifeStages.2.labelPlural>
+
+  <!-- Koala -->
+
+  <AEXP_Koala.label>koala</AEXP_Koala.label>
+  <AEXP_Koala.labelPlural>koalas</AEXP_Koala.labelPlural>
+  <AEXP_Koala.lifeStages.0.label>koala</AEXP_Koala.lifeStages.0.label>
+  <AEXP_Koala.lifeStages.0.labelPlural>koala</AEXP_Koala.lifeStages.0.labelPlural>
+  <AEXP_Koala.lifeStages.1.label>koala</AEXP_Koala.lifeStages.1.label>
+  <AEXP_Koala.lifeStages.1.labelPlural>koala</AEXP_Koala.lifeStages.1.labelPlural>
+  <AEXP_Koala.lifeStages.2.label>koala</AEXP_Koala.lifeStages.2.label>
+  <AEXP_Koala.lifeStages.2.labelPlural>koala</AEXP_Koala.lifeStages.2.labelPlural>
+
+  <!-- Platypus -->
+
+  <AEXP_Platypus.label>platypus</AEXP_Platypus.label>
+  <AEXP_Platypus.labelPlural>platypuss</AEXP_Platypus.labelPlural>
+  <AEXP_Platypus.lifeStages.0.label>platypus</AEXP_Platypus.lifeStages.0.label>
+  <AEXP_Platypus.lifeStages.0.labelPlural>platypus</AEXP_Platypus.lifeStages.0.labelPlural>
+  <AEXP_Platypus.lifeStages.1.label>platypus</AEXP_Platypus.lifeStages.1.label>
+  <AEXP_Platypus.lifeStages.1.labelPlural>platypus</AEXP_Platypus.lifeStages.1.labelPlural>
+  <AEXP_Platypus.lifeStages.2.label>platypus</AEXP_Platypus.lifeStages.2.label>
+  <AEXP_Platypus.lifeStages.2.labelPlural>platypus</AEXP_Platypus.lifeStages.2.labelPlural>
+
+</LanguageData>

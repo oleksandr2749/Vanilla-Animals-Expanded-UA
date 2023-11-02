@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CatAbyssinian -->
+
+  <AEXP_CatAbyssinian.label>abyssinian cat</AEXP_CatAbyssinian.label>
+  <AEXP_CatAbyssinian.description>A slender, fine-boned, medium sized shrubland cat.</AEXP_CatAbyssinian.description>
+  <AEXP_CatAbyssinian_Leather.label>abyssinian cat leather</AEXP_CatAbyssinian_Leather.label>
+  <AEXP_CatAbyssinian_Leather.description>abyssinian cat leather</AEXP_CatAbyssinian_Leather.description>
+  <AEXP_CatAbyssinian_Leather.stuffProps.stuffAdjective>abyssinian cat leather</AEXP_CatAbyssinian_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatAbyssinian_Corpse.label>abyssinian cat corpse</AEXP_CatAbyssinian_Corpse.label>
+  <AEXP_CatAbyssinian_Corpse.description>abyssinian cat corpse</AEXP_CatAbyssinian_Corpse.description>
+
+
+  <!-- CatBengal -->
+
+  <AEXP_CatBengal.label>bengal cat</AEXP_CatBengal.label>
+  <AEXP_CatBengal.description>A domesticated hybrid of a domestic cat and tropical leopard.</AEXP_CatBengal.description>
+  <AEXP_CatBengal_Leather.label>bengal cat leather</AEXP_CatBengal_Leather.label>
+  <AEXP_CatBengal_Leather.description>bengal cat leather</AEXP_CatBengal_Leather.description>
+  <AEXP_CatBengal_Leather.stuffProps.stuffAdjective>bengal cat leather</AEXP_CatBengal_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatBengal_Corpse.label>bengal cat corpse</AEXP_CatBengal_Corpse.label>
+  <AEXP_CatBengal_Corpse.description>bengal cat corpse</AEXP_CatBengal_Corpse.description>
+
+
+  <!-- CatBritishShorthair -->
+
+  <AEXP_CatBritishShorthair.label>british shorthair cat</AEXP_CatBritishShorthair.label>
+  <AEXP_CatBritishShorthair.description>A pedigreed version of a regular british cat, with a distinctively chunky body, dense coat and a very broad face. While being relatively powerful-looking due to the large chest and massive paws, these cats are absolutely harmless.</AEXP_CatBritishShorthair.description>
+  <AEXP_CatBritishShorthair_Leather.label>british shorthair cat leather</AEXP_CatBritishShorthair_Leather.label>
+  <AEXP_CatBritishShorthair_Leather.description>british shorthair cat leather</AEXP_CatBritishShorthair_Leather.description>
+  <AEXP_CatBritishShorthair_Leather.stuffProps.stuffAdjective>british shorthair cat leather</AEXP_CatBritishShorthair_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatBritishShorthair_Corpse.label>british shorthair cat corpse</AEXP_CatBritishShorthair_Corpse.label>
+  <AEXP_CatBritishShorthair_Corpse.description>british shorthair cat corpse</AEXP_CatBritishShorthair_Corpse.description>
+
+
+  <!-- CatMaineCoon -->
+
+  <AEXP_CatMaineCoon.label>maine coon</AEXP_CatMaineCoon.label>
+  <AEXP_CatMaineCoon.description>A largest domesticated cat, it has a distinctive physical appearance and valuable hunting skills. It's a large and sociable cat, hence it has been given a nickname "the gentle giant."</AEXP_CatMaineCoon.description>
+  <AEXP_CatMaineCoon_Leather.label>maine coon leather</AEXP_CatMaineCoon_Leather.label>
+  <AEXP_CatMaineCoon_Leather.description>maine coon leather</AEXP_CatMaineCoon_Leather.description>
+  <AEXP_CatMaineCoon_Leather.stuffProps.stuffAdjective>maine coon leather</AEXP_CatMaineCoon_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatMaineCoon_Corpse.label>maine coon corpse</AEXP_CatMaineCoon_Corpse.label>
+  <AEXP_CatMaineCoon_Corpse.description>maine coon corpse</AEXP_CatMaineCoon_Corpse.description>
+
+
+  <!-- CatMunchkin -->
+
+  <AEXP_CatMunchkin.label>munchkin cat</AEXP_CatMunchkin.label>
+  <AEXP_CatMunchkin.description>Also known as a sausage cat, this new cat breed has distinctively short legs. Sweet natured, playful and people-oriented, these cats are perfect companions for people with lazy lifestyle.</AEXP_CatMunchkin.description>
+  <AEXP_CatMunchkin_Leather.label>munchkin cat leather</AEXP_CatMunchkin_Leather.label>
+  <AEXP_CatMunchkin_Leather.description>munchkin cat leather</AEXP_CatMunchkin_Leather.description>
+  <AEXP_CatMunchkin_Leather.stuffProps.stuffAdjective>munchkin cat leather</AEXP_CatMunchkin_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatMunchkin_Corpse.label>munchkin cat corpse</AEXP_CatMunchkin_Corpse.label>
+  <AEXP_CatMunchkin_Corpse.description>munchkin cat corpse</AEXP_CatMunchkin_Corpse.description>
+
+
+  <!-- NorwegianForestCat -->
+
+  <AEXP_CatNorwegianForest.label>norwegian forest cat</AEXP_CatNorwegianForest.label>
+  <AEXP_CatNorwegianForest.description>A cat adapted for very cold climates due to the top coat of glossy, water-shedding hair.</AEXP_CatNorwegianForest.description>
+  <AEXP_CatNorwegianForest_Leather.label>norwegian forest cat leather</AEXP_CatNorwegianForest_Leather.label>
+  <AEXP_CatNorwegianForest_Leather.description>norwegian forest cat leather</AEXP_CatNorwegianForest_Leather.description>
+  <AEXP_CatNorwegianForest_Leather.stuffProps.stuffAdjective>norwegian forest cat leather</AEXP_CatNorwegianForest_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatNorwegianForest_Corpse.label>norwegian forest cat corpse</AEXP_CatNorwegianForest_Corpse.label>
+  <AEXP_CatNorwegianForest_Corpse.description>norwegian forest cat corpse</AEXP_CatNorwegianForest_Corpse.description>
+
+
+  <!-- CatPersian -->
+
+  <AEXP_CatPersian.label>persian cat</AEXP_CatPersian.label>
+  <AEXP_CatPersian.description>A long haired cat originating from desert wildcats, Persian cats are regal, intelligent and agile, which makes them excellent for hunting small rodents and birds.</AEXP_CatPersian.description>
+  <AEXP_CatPersian_Leather.label>persian cat leather</AEXP_CatPersian_Leather.label>
+  <AEXP_CatPersian_Leather.description>persian cat leather</AEXP_CatPersian_Leather.description>
+  <AEXP_CatPersian_Leather.stuffProps.stuffAdjective>persian cat leather</AEXP_CatPersian_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatPersian_Corpse.label>persian cat corpse</AEXP_CatPersian_Corpse.label>
+  <AEXP_CatPersian_Corpse.description>persian cat corpse</AEXP_CatPersian_Corpse.description>
+
+
+  <!-- CatSiamese -->
+
+  <AEXP_CatSiamese.label>siamese cat</AEXP_CatSiamese.label>
+  <AEXP_CatSiamese.description>A cat with distinctively triangular head, blue eyes and long and muscular body, renowned for it's social nature.</AEXP_CatSiamese.description>
+  <AEXP_CatSiamese_Leather.label>siamese cat leather</AEXP_CatSiamese_Leather.label>
+  <AEXP_CatSiamese_Leather.description>siamese cat leather</AEXP_CatSiamese_Leather.description>
+  <AEXP_CatSiamese_Leather.stuffProps.stuffAdjective>siamese cat leather</AEXP_CatSiamese_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatSiamese_Corpse.label>siamese cat corpse</AEXP_CatSiamese_Corpse.label>
+  <AEXP_CatSiamese_Corpse.description>siamese cat corpse</AEXP_CatSiamese_Corpse.description>
+
+
+  <!-- CatSomali -->
+
+  <AEXP_CatSomali.label>somali cat</AEXP_CatSomali.label>
+  <AEXP_CatSomali.description>A shrubland cat, sharing the same family as the Abyssinian cat. It has a bushy tail and almond shaped eyes.</AEXP_CatSomali.description>
+  <AEXP_CatSomali_Leather.label>somali cat leather</AEXP_CatSomali_Leather.label>
+  <AEXP_CatSomali_Leather.description>somali cat leather</AEXP_CatSomali_Leather.description>
+  <AEXP_CatSomali_Leather.stuffProps.stuffAdjective>somali cat leather</AEXP_CatSomali_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatSomali_Corpse.label>somali cat corpse</AEXP_CatSomali_Corpse.label>
+  <AEXP_CatSomali_Corpse.description>somali cat corpse</AEXP_CatSomali_Corpse.description>
+
+
+  <!-- CatSphynx -->
+
+  <AEXP_CatSphynx.label>sphynx cat</AEXP_CatSphynx.label>
+  <AEXP_CatSphynx.description>A cat known for it's lack of fur, developed due to selective breeding. Being warm to the touch, they lose body temperature easily which makes it seek out heat sources.</AEXP_CatSphynx.description>
+  <AEXP_CatSphynx_Leather.label>sphynx cat leather</AEXP_CatSphynx_Leather.label>
+  <AEXP_CatSphynx_Leather.description>sphynx cat leather</AEXP_CatSphynx_Leather.description>
+  <AEXP_CatSphynx_Leather.stuffProps.stuffAdjective>sphynx cat leather</AEXP_CatSphynx_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <AEXP_CatSphynx_Corpse.label>sphynx cat corpse</AEXP_CatSphynx_Corpse.label>
+  <AEXP_CatSphynx_Corpse.description>sphynx cat corpse</AEXP_CatSphynx_Corpse.description>
+
+
+</LanguageData>
